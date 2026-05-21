@@ -1,2 +1,2 @@
 # GoldApp
-Look away, this is just a test :)
+Look away, this is just a test :).
